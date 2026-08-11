@@ -2,6 +2,9 @@
 
 A core React component library built with React 18, TailwindCSS, Vite, and Vitest.
 
+## 🔗 Live Demo
+Check out the project here: [Component Library](https://compo-library.netlify.app/)
+
 ## Components
 
 - **Button**: Customizable button supporting primary, secondary, and danger variants across sm, md, and lg sizes.
